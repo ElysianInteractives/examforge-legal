@@ -1,15 +1,28 @@
-﻿# ExamForge Legal
+# ExamForge GitHub Pages Site
 
-Static legal pages for ExamForge by North Star Labs / Elysian Interactives.
+This folder is ready to publish as a GitHub Pages site.
 
-GitHub Pages privacy policy URL after Pages is enabled:
+Privacy policy URL after publishing to a project repository:
 
 ```text
-https://elysianinteractives.github.io/examforge-legal/privacy-policy.html
+https://<github-username>.github.io/<repository-name>/privacy-policy.html
 ```
 
-Use that URL in Google Play Console under:
+Privacy policy URL after publishing to a user site repository named
+`<github-username>.github.io`:
+
+```text
+https://<github-username>.github.io/privacy-policy.html
+```
+
+Use the privacy policy URL in Google Play Console under:
 
 ```text
 Policy and programs -> App content -> Privacy policy
+```
+
+Account deletion URL for the current project Pages site:
+
+```text
+https://elysianinteractives.github.io/examforge-legal/account-deletion.html
 ```

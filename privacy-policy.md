@@ -68,6 +68,10 @@ ExamForge is a general study tool and is not directed specifically to children u
 
 You can delete classes, decks, cards, materials, exams, backups, and app data from within the app or through Android system settings. Uninstalling the app removes locally stored app data from the device, subject to Android's normal backup and storage behavior.
 
+You can request account and data deletion at:
+
+https://elysianinteractives.github.io/examforge-legal/account-deletion.html
+
 Google account and purchase records managed by Google are controlled through your Google account and Google Play settings.
 
 ## Security
